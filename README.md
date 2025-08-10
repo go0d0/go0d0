@@ -1,33 +1,89 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zacky Firdaus</h1>
-<h3 align="center">A passionate backend developer from Indonesia, specializing in building robust and scalable applications with Go and Java.</h3>
+# 👋 Hi, I'm Muhammad Zacky Firdaus (go0d0)
 
-<p align="center">
-  🔭 I’m currently building a microservices-based application using Go and gRPC.
-</p>
+Welcome to my GitHub!  
+I’m a dedicated **Backend Developer** specializing in Go and Java, passionate about designing scalable systems and solving hard problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&locale=en" alt="go0d0" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=go0d0&show_icons=true&locale=en&layout=compact" alt="go0d0" />
-</p>
+## 🎯 Quick Intro
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+> **👀 New visitor?**  
+> Hover over my profile stats below or click my featured repositories to see what I'm working on lately!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-  <a href="https://your-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="your-website.com" height="30" width="40" /></a>
-</p>
+- 🏢 Backend Engineer | API Architect | Microservices Enthusiast
+- 📍 Based in Indonesia
+- 💡 I love sharing knowledge—check out my pinned repos for practical backend examples!
+- 🔗 Connect: [LinkedIn](#) | [Email](#)
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-  📫 How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
+**Backend & Cloud**
+- RESTful & gRPC API design
+- Microservices architecture
+- Docker, Kubernetes basics
+- PostgreSQL, MySQL, MongoDB, Redis
+- Kafka, RabbitMQ
+
+**Development Practices**
+- TDD & Unit Testing
+- CI/CD (GitHub Actions, Jenkins)
+- Code reviews & clean architecture
+- Performance tuning & monitoring
+
+---
+
+## 🌱 Interests & Focus
+
+- Distributed systems & event-driven architectures
+- Cloud-native development (AWS, GCP, container orchestration)
+- Observability: tracing, logging, and metrics
+- Backend security and scalability
+
+---
+
+## ⚡ Fun Features
+
+<details>
+  <summary>✨ Fast Facts About Me</summary>
+  <ul>
+    <li>Always up for a backend challenge 🚀</li>
+    <li>Love learning new programming paradigms</li>
+    <li>Enjoy mentoring and collaborating on open source projects</li>
+    <li>Believer in clean code and clear documentation</li>
+  </ul>
+</details>
+
+---
+
+## 📈 My GitHub at a Glance
+
+![go0d0's GitHub stats](https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go0d0&layout=compact&theme=radical)
+
+---
+
+## 📂 Featured Projects
+
+- [go0d0/go0d0](https://github.com/go0d0/go0d0): My core backend utilities and experiments in Go and Java.
+- [ProjectName](#): (Add your top projects here with a brief description)
+
+---
+
+## 💬 Let's Connect
+
+- GitHub: [go0d0](https://github.com/go0d0)
+- LinkedIn: [Your LinkedIn](#)
+- Email: [Your Email](#)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by!  
+Feel free to explore my repositories, contribute, or reach out for collaboration.
