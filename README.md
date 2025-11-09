@@ -47,12 +47,6 @@ Backend Developer | Go, Java, PHP | API & Microservices Specialist
 - Backend Security & Scalability  
 - Cloud-native Development & Container Orchestration  
 
----
-
-## 📂 Featured Projects
-- [go0d0/go0d0](https://github.com/go0d0/go0d0) – Core backend utilities & experiments (Go/Gin, Java/Spring Boot, PHP/Laravel)  
-- [ProjectName](#) – Event-driven microservice demo with Kafka & Redis  
-- [ProjectName](#) – REST API with full CI/CD pipeline and unit tests  
 
 ---
 
